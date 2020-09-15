@@ -4,14 +4,15 @@
 
 ## 1. 思維導圖
 
-<img src="https://raw.githubusercontent.com/waiting0324/TyporaImg/master/image-20200915114631312.png" alt="image-20200915114631312" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/waiting0324/TyporaImg/master/image-20200915181149988.png" alt="image-20200915181149988" style="zoom:67%;" />
 
 
 
 **當存在以下情況的時候，可以考慮使用策略模式 :**
 
 1. 某段程式碼存在過多的 if - else 語句
-2. 希望將運算邏輯透過類進行封裝，並且在不同情況下，切換不同的演算法
+2. if - else 中的執行邏輯過於複雜，希望用類進行封裝
+3. 希望使用類來封裝條件表達式
 
 
 
@@ -43,7 +44,7 @@
 
 ### 3.3 類圖
 
-<img src="https://raw.githubusercontent.com/waiting0324/TyporaImg/master/image-20200915125327640.png" alt="image-20200915123314229" style="zoom: 50%;" />
+![image-20200915125327640](https://raw.githubusercontent.com/waiting0324/TyporaImg/master/image-20200915125327640.png)
 
 
 
