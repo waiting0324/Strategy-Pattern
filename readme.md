@@ -43,7 +43,7 @@
 
 ### 3.3 類圖
 
-<img src="https://raw.githubusercontent.com/waiting0324/TyporaImg/master/image-20200915123314229.png" alt="image-20200915123314229" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/waiting0324/TyporaImg/master/image-20200915125327640.png" alt="image-20200915123314229" style="zoom: 50%;" />
 
 
 
